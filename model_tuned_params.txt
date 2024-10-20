@@ -1,0 +1,4 @@
+best scores as of 10-17-2024
+
+grid_search_results
+(0.36204867946665814, (1.25, 360))
